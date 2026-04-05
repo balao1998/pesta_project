@@ -481,9 +481,9 @@ KOMA-script documentation for details.}]{fancyhdr}
 	\providecaptionname{english}{\degreetemp}{Degree in Electrical and Computer Engineering}
 	\providecaptionname{portuguese}{\degreetemp}{Licenciatura em Engenharia Eletrot\'{e}cnica e de Computadores}
 	\renewcommand{\frontcourselabel}{{\large \degreetemp}\\}
-	\renewcommand{\disclamertemp}{This report partially satisfies the requirements defined for the Project/Internship course, in the 3\textsuperscript{rd} year, of the }
-	\providecaptionname{english}{\disclamertemp}{This report partially satisfies the requirements defined for the Project/Internship course, in the 3\textsuperscript{rd} year, of the }
-	\providecaptionname{portuguese}{\disclamertemp}{Este relat\'{o}rio satisfaz, parcialmente, os requisitos que constam da Ficha de Unidade Curricular de Projeto/Est\'{a}gio, do 3º ano, da }
+	% \renewcommand{\disclamertemp}{This report partially satisfies the requirements defined for the Project/Internship course, in the 3\textsuperscript{rd} year, of the }
+	% \providecaptionname{english}{\disclamertemp}{This report partially satisfies the requirements defined for the Project/Internship course, in the 3\textsuperscript{rd} year, of the }
+	% \providecaptionname{portuguese}{\disclamertemp}{Este relat\'{o}rio satisfaz, parcialmente, os requisitos que constam da Ficha de Unidade Curricular de Projeto/Est\'{a}gio, do 3º ano, da }
 	\renewcommand{\aftercourselabel}{\large \textit{\disclamertemp \degreetemp.}\\}			
 }{}
 
